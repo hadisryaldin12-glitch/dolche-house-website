@@ -41,7 +41,7 @@ This repository showcases the project and myProject Screenshots
 
 Homepage
 
-![Dolche House Homepage] (homepage.jpeg)
+![Dolche House Homepage](dolche-house-homepage.jpeg)
 
 Booking Page
 
