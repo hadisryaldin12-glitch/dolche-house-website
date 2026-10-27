@@ -45,7 +45,7 @@ Homepage
 
 Booking Page
 
-"Dolche House Booking" (dolche-house-booking.jpeg)
+![Dolche House Booking](./dolche-house-booking.jpeg)
 
 Mobile View
 
