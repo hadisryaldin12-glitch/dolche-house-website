@@ -49,14 +49,14 @@ Booking Page
 
 Mobile View
 
-"Dolche House Mobile" (dolche-house-mobile.jpeg)
+![Dolche House Mobile](dolche-house-mobile.jpeg)
 
 Pricing
 
-"Dolche House Pricing" (dolche-house-pricing.jpeg)
+![Dolche House Pricing](dolche-house-pricing.jpeg)
 
 Services
 
-"Dolche House Services" (services.jpeg) development experience without exposing proprietary source code.
+![Dolche House Services](dolche-house-services.jpeg) development experience without exposing proprietary source code.
 
 
