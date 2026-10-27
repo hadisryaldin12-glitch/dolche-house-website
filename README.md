@@ -39,11 +39,7 @@ The source code is not included because the project was delivered to the client 
 
 This repository showcases the project and my development experience without exposing proprietary source code.
 
-Homepage
 dolche-house-homepage.jpeg
-services
 dolche-house-services.jpeg
 services.jpg (2).jpeg-دولتشي-هاوس
-دولتشي-هاوس-services.jpg (3).jpeg
-booking
 dolche-house-booking.jpeg
