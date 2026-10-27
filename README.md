@@ -37,9 +37,26 @@ Source Code
 
 The source code is not included because the project was delivered to the client and is not available for public distribution.
 
-This repository showcases the project and my development experience without exposing proprietary source code.
+This repository showcases the project and myProject Screenshots
 
-dolche-house-homepage.jpeg
-dolche-house-services.jpeg
-services.jpeg
-dolche-house-booking.jpeg
+Homepage
+
+"Dolche House Homepage" (homepage.jpeg)
+
+Booking Page
+
+"Dolche House Booking" (dolche-house-booking.jpeg)
+
+Mobile View
+
+"Dolche House Mobile" (dolche-house-mobile.jpeg)
+
+Pricing
+
+"Dolche House Pricing" (dolche-house-pricing.jpeg)
+
+Services
+
+"Dolche House Services" (services.jpeg) development experience without exposing proprietary source code.
+
+
