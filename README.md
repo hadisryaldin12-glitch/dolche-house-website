@@ -41,5 +41,5 @@ This repository showcases the project and my development experience without expo
 
 dolche-house-homepage.jpeg
 dolche-house-services.jpeg
-services.jpg (2).jpeg-دولتشي-هاوس
+services.jpeg
 dolche-house-booking.jpeg
